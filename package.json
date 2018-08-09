@@ -1,12 +1,12 @@
 {
   "name": "nodejs",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Thanh Trieu <nguyenthanhtrieu90gmail.com> (https://vccorp.vn/)",
+  "license": "ISC",
+  "description": ""
 }
